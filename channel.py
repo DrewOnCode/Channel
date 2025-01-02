@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 API_ID = '22710783'
 API_HASH = '616ea341acfed51f916506c20b8a0a44'
-BOT_TOKEN = '7212369479:AAHD0FfwXkzWcax_hjbMJ1xA4VLaI9mKjtg'
+BOT_TOKEN = '6989181696:AAF9Cw_aAJRBBLJt3-xwmY_CBF70mAVaZ1s'
 MONGO_URI = "mongodb+srv://test:test@cluster0.q9llhnj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  
 mongo_client = MongoClient(MONGO_URI)
 db = mongo_client['telegram_bot']
